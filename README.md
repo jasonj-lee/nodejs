@@ -1,6 +1,4 @@
 # nodejs
 A minimal Node.js web application.
 
-For a step-by-step guide to deploying on [Railway](https://railway.app/?referralCode=alphasec), see [this](https://alphasec.io/how-to-deploy-a-nodejs-app-on-railway/) post, or click the button below.
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/Abo1zu?referralCode=alphasec)
+Used in tandem with JSA sweepstakes project to display results on a browser. 
